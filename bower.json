@@ -1,0 +1,27 @@
+{
+  "name": "sacdl-project",
+  "authors": [
+    "king"
+  ],
+  "description": "加密货币开发语言分析",
+  "main": "index.js",
+  "keywords": [
+    "CryptoCurrency",
+    "bitcoin",
+    "d3js",
+    "nodejs"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/sjlontheway/bitcoin.git",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "d3": "^5.4.0"
+  }
+}
